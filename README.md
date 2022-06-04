@@ -1,2 +1,9 @@
-# PYTHON
-xxx
+# Objectives
+In this section I want to prove my expertise (developing several practical cases) including some important subjects (but not limited):
+- Metrics;
+- Key Performance Indicators (KPIs);
+- Reports;
+- Ad-hoc analysis;
+- Data analysis;
+- Data visualization using (**MATPLOTLIB, SEABORN and PLOTLY**);
+- Data manipulation using (**PANDAS, NUMPY and SCIPY**).
