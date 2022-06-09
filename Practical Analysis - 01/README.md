@@ -1,5 +1,5 @@
 # CONTEXTO
-Dados relacionados às plataformas Amazon e Netflix. A seguir são detalhados os atributos dos dados (arquivos: amazon_prime_titles e netflix_titles):
+Dados relacionados às plataformas Amazon e Netflix. A seguir são detalhados os atributos dos dados (arquivos: __amazon_prime_titles__ e __netflix_titles__):
 
 - **_show_id_** : Unique ID for every Movie / Tv Show
 - **_type_** : Identifier - A Movie or TV Show
