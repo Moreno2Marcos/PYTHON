@@ -9,3 +9,6 @@ Analisar a eficiência de uma Turbina Eólica (Setor de energia). Ou seja, anali
 - Wind Speed (m/s): Quando é a velocidade do vento;
 - Theoretical_Power_Curve (KWh): Curva teórica de potência (geração de potência ativa em condições ideais para um instante de tempo);
 - Wind Direction: Direção do vento.
+
+### Referência
+https://www.youtube.com/watch?v=vgPPr9dFOZQ
