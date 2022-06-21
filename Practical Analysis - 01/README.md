@@ -36,3 +36,6 @@ https://drive.google.com/file/d/13bgfrSHYmHSOPNvtGKIfeqS03knDe6u9/view?usp=shari
 https://drive.google.com/file/d/1LZkDR0kbUOXLyjpXQZqtvX1eRCZtJvkt/view?usp=sharing
 #### PERGUNTA 7
 https://drive.google.com/file/d/1K3fAhXmoeAHP3d0FQoGlpNCwF6Laby_U/view?usp=sharing
+
+### Referência
+Desafio técnico da Empresa Coodesh (https://coodesh.com/)
